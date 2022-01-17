@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(295deg, #5a5e72 0, #1d3057 50%, #00154b 100%) fixed;
+}
+.box{
+    font-family: 'Itim', cursive;
+    
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    height: 400px;
+    font-size: 8vh;
+}   
